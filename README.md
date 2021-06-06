@@ -1,4 +1,4 @@
-<h1 align = center>Logistic Regression Basics</h1>
+<h1 align = center>Simple Logistic Regression</h1>
 
 ## Requirements
 - numpy
@@ -27,6 +27,6 @@ After changing classes names to integers, we then devide the data in testing and
 
 ## Creating usesr defined function for logistic regression
 
-We create a user defied function `weightInitialization` which will assign weights to each entries. We then define **Sigmoid** function to classify our data. **Cost Function** is defined next along with the **Descent Gradient**.
+We create a user defined function `weightInitialization` which will assign weights to each entries. We then define **Sigmoid** function to classify our data. **Cost Function** is defined next along with the **Descent Gradient**.
 
 Then we create a user defined function for logistic regression and cross check the answer with the library function.
